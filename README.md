@@ -5,7 +5,7 @@
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcampos321&show_icons=true&theme=react-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="left" height="250" alt="coding-time" src="code.gif">
+  <img align="left" height="250" width="300" alt="coding-time" src="code.gif">
   
 </div>
 
