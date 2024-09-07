@@ -15,5 +15,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,nextjs" /><br>
 </div>
 
+![Snake animation](https://github.com/ericcampos321/ericcampos321/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c5e7f&height=120&section=footer"/>
