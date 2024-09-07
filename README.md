@@ -6,7 +6,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcampos321&show_icons=true&theme=react-gatsby&include_all_commits=true&count_private=true"/>
-     <img align="left" height="250" width="300" alt="coding-time" src="code.gif">
+     <img align="left" height="250" width="500" alt="coding-time" src="code.gif">
    </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ericcampos321&bg_color=000000&color=ffffff&line=00fffb&point=4be2a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
