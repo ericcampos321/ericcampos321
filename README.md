@@ -5,7 +5,7 @@
 
 
 <div>
-  <img width=100%  height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcampos321&show_icons=true&theme=react-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcampos321&show_icons=true&theme=react-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcampos321&layout=compact&langs_count=16&theme=react-gatsby"/>
 </div>
 </div>
