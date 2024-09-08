@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width=100% src="(https://github.com/user-attachments/assets/4c6b26b9-7abd-40ee-b2a3-f1c2ee14d77f"/>
+<img width=100% src="https://github.com/user-attachments/assets/4c6b26b9-7abd-40ee-b2a3-f1c2ee14d77f"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+eric+campos+;I'm+31+years+old;I+am+from+Bauru,+SP;I+study+Software+Enginnering;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
