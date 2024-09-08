@@ -18,6 +18,3 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git,linux" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,nextjs" /><br>
 </div>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c5e7f&height=120&section=footer"/>
