@@ -1,6 +1,10 @@
-<img  width=100% height=250px src="https://github.com/user-attachments/assets/d7cb9471-8fd6-4051-8d44-70c43a579603" />
 
+<div> 
+<img  width=100% height=250px src="https://github.com/user-attachments/assets/d7cb9471-8fd6-4051-8d44-70c43a579603" />
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+</div>
+
+
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+eric+campos+;I'm+31+years+old;I+am+from+Bauru,+SP;I+study+Software+Enginnering;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
