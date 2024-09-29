@@ -1,4 +1,4 @@
-<img  width=100% height=200px src="https://github.com/user-attachments/assets/d7cb9471-8fd6-4051-8d44-70c43a579603" />
+<img  width=100% height=250px src="https://github.com/user-attachments/assets/d7cb9471-8fd6-4051-8d44-70c43a579603" />
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   
