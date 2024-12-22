@@ -1,3 +1,5 @@
+"Atualmente, estou contribuindo ativamente para os projetos da empresa ARCADAFÉ, onde gerencio commits e versões para desenvolvimento de aplicações."
+
 
 <div d-flex> 
 <img width=100% height=200px src="https://github.com/user-attachments/assets/d7cb9471-8fd6-4051-8d44-70c43a579603" />
