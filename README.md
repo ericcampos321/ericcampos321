@@ -1,4 +1,4 @@
-"Atualmente, estou contribuindo ativamente para os projetos da empresa ARCADAFÉ, onde gerencio commits e versões para desenvolvimento de aplicações."
+"Atualmente, estou contribuindo ativamente para os projetos da empresa oneClick Engenharia de Software, onde gerencio commits e versões para desenvolvimento de aplicações."
 
 
 <div d-flex> 
