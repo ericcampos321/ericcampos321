@@ -1,24 +1,8 @@
 "Atualmente, estou contribuindo ativamente para os projetos da empresa oneClick Engenharia de Software, onde gerencio commits e versões para desenvolvimento de aplicações."
 
 Desenvolvedor Fullstack e estudante de Engenharia de Software. Ao longo da minha trajetória, venho me especializando no desenvolvimento de interfaces de usuário e lógica de servidor, usando tecnologias como React.js, Node.js, MongoDB, e práticas avançadas de APIs RESTful e arquitetura MVC.
-
-Atividades principais
-💻 Desenvolvimento de interfaces interativas e responsivas.
-📊 Integração de banco de dados NoSQL, focando em eficiência e escalabilidade.
-🔒 Implementação de soluções backend robustas e seguras.
-🛠️ Aplicação de metodologias ágeis, como Scrum e Kanban.
-
-Principais resultados 🏆
-📉 Otimização de processos produtivos, como redução de tempo em operações internas.
-🔐 Implementação de estratégias de segurança em APIs, como autenticação com JWT.
-🌟 Criação de APIs escaláveis e documentadas, contribuindo para a eficiência de equipes.
-
-Competências 🧰
-🌐 Experiência com HTML, CSS, JavaScript, TypeScript e frameworks como React.js e Express.js.
-🗄️ Gestão de dados com MongoDB e Mongoose.
-⚡ Sistemas Fiscais e Tributários: Conhecimento avançado em emissão de NFC-e/NFe, geração de DANFE, XMLs, cartas de correção, cancelamento de notas fiscais e regras tributárias.
-📜 Integração com SEFAZ: Experiência com transmissão de notas fiscais, consulta de status, eventos de correção e automação de processos fiscais.
-📑 Simples Nacional: Conhecimento em regimes tributários, apuração de impostos e obrigações acessórias dentro do Simples Nacional.
+Desenvolvedor Fullstack e estudante de Engenharia de Software, com experiência no desenvolvimento de interfaces de usuário e lógica de servidor utilizando tecnologias como React.js, Node.js e MongoDB. Especializo-me na criação de APIs RESTful e na implementação da arquitetura MVC para garantir escalabilidade e eficiência. Tenho forte atuação na integração de bancos de dados NoSQL e na otimização de processos produtivos, buscando reduzir tempos de operação e aumentar a performance das aplicações. No backend, desenvolvo soluções seguras e robustas, aplicando estratégias como autenticação JWT e metodologias ágeis como Scrum e Kanban para manter um fluxo de trabalho eficiente.
+Minha expertise inclui experiência com HTML, CSS, JavaScript e TypeScript, além de frameworks como React.js e Express.js. No setor fiscal e tributário, possuo conhecimento avançado em emissão de NFC-e/NFe, geração de DANFE, XMLs, cartas de correção, cancelamento de notas fiscais e aplicação de regras tributárias. Trabalho com integração direta à SEFAZ, garantindo a transmissão e validação de documentos fiscais, além da automação de processos para simplificar a gestão fiscal. Tenho domínio em regimes tributários como o Simples Nacional e suas obrigações acessórias. Além disso, utilizo ferramentas de versionamento como Git e GitHub para manter a organização e rastreabilidade dos projetos.
 
 <div d-flex> 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
