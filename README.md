@@ -1,7 +1,5 @@
 "Atualmente, estou contribuindo ativamente para os projetos da empresa oneClick Engenharia de Software, onde gerencio commits e versões para desenvolvimento de aplicações."
 
-Desenvolvedor Fullstack e estudante de Engenharia de Software, com experiência em TypeScript, React.js, Node.js, MongoDB e integração de APIs RESTful. Atuo na criação de soluções escaláveis e seguras, aplicando autenticação JWT e metodologias ágeis como Scrum e Kanban. Especialista em sistemas fiscais, tenho conhecimento avançado em emissão de NFC-e/NFe, geração de DANFE, XMLs, cartas de correção e integração com a SEFAZ. Também possuo expertise em gestão tributária no Simples Nacional e automação de processos fiscais. Trabalho com Git/GitHub para versionamento e organização dos projetos.
-
 <div d-flex> 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 </div>
