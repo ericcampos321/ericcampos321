@@ -14,7 +14,7 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcampos321&layout=compact&langs_count=16&theme=aura"/>
 </div>
 
-### 🚀 Tecnologias e Ferramentas
+# 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -41,11 +41,3 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ericcampos321&bg_color=000000&color=ffffff&line=00fffb&point=4be2a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-# 💻 Tech Stack
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git,linux" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb,nextjs,typescript,java,springboot" /><br>
-</div>
