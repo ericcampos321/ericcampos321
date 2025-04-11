@@ -1,6 +1,6 @@
-## 👋 Olá! Seja bem-vindo ao meu perfil GitHub!
+## Olá! Seja bem-vindo ao meu perfil GitHub!
 
-Sou apaixonado por tecnologia e por criar soluções que realmente fazem a diferença. Abaixo você pode conferir alguns dos meus principais projetos — todos construídos com foco em qualidade, organização e aplicabilidade real.
+Desenvolvedor Fullstack
 
 ---
 
@@ -18,7 +18,7 @@ Sou apaixonado por tecnologia e por criar soluções que realmente fazem a difer
 
 ### 🛠️ Tecnologias que mais utilizo
 
-- **Frontend:** React.js, TypeScript, TailwindCSS, PrimeVue
+- **Frontend:** React.js, TypeScript, TailwindCSS, Material UI
 - **Backend:** Node.js (Express.js), Python (FastAPI), Java (Spring Boot)
 - **Banco de Dados:** MongoDB, MySQL, Drizzle ORM, SQLAlchemy
 - **Extras:** JWT Auth, PDF Generator, Puppeteer, Electron, Webhooks, GitHub Actions
