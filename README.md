@@ -27,10 +27,9 @@ Desenvolvedor Fullstack
 
 ### 📌 Destaques
 
-- Arquitetura organizada com separação em `Controller`, `Service`, `Repository`, seguindo boas práticas.
-- Integração com APIs públicas e privadas (Focus NFe, ViaCEP, Beehiiv).
-- Implementações de filtros avançados, dashboards, geração de relatórios e módulos de permissões dinâmicas.
-- Testes técnicos completos com README documentado e automações.
+- Criação de Cards documentados, contribuindo para a eficiência de equipes.
+- Criação de documentações técnicas completas para projetos, utilizando padrões corporativos com sumário, estruturação por tópicos, instruções de execução e histórico de versão.
+- Gerencio minhas atividades utilizando o Trello com Kanban, integrado à metodologia Scrum. Organizo tarefas em Backlog, Sprint e participo de Daily Meetings, garantindo um fluxo de trabalho ágil, estruturado e transparente
 
 ---
 
