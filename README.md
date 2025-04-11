@@ -19,7 +19,7 @@ Desenvolvedor Fullstack
 ### 🛠️ Tecnologias que mais utilizo
 
 - **Frontend:** React.js, TypeScript, TailwindCSS, Material UI
-- **Backend:** Node.js (Express.js), Python (FastAPI), Java (Spring Boot)
+- **Backend:** Node.js (Express.js)
 - **Banco de Dados:** MongoDB, MySQL, Drizzle ORM, SQLAlchemy
 - **Extras:** JWT Auth, PDF Generator, Puppeteer, Electron, Webhooks, GitHub Actions
 
