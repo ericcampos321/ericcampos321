@@ -1,12 +1,38 @@
-"Atualmente, estou contribuindo ativamente para os projetos da empresa oneClick Engenharia de Software, onde gerencio commits e versões para desenvolvimento de aplicações."
+## 👋 Olá! Seja bem-vindo ao meu perfil GitHub!
 
-<div d-flex> 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-</div>
+Sou apaixonado por tecnologia e por criar soluções que realmente fazem a diferença. Abaixo você pode conferir alguns dos meus principais projetos — todos construídos com foco em qualidade, organização e aplicabilidade real.
 
+---
 
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+eric+campos+;I'm+32+years+old;I+am+from+Bauru,+SP;I+study+Software+Enginnering;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+### 🚀 Projetos com maior impacto e utilidade prática
+
+| Projeto | Descrição |
+|--------|-----------|
+| [`castracoes-api`](https://github.com/ericcampos321/castracao-backend) | API RESTful para gerenciamento de agendamentos e castrações em ONGs. Possui autenticação JWT, permissões por roles, MongoDB e arquitetura MVC. |
+| [`project-SEFAZ`](https://github.com/ericcampos321/SEFAZ-Project-NODEJS) | Sistema de comunicação com a SEFAZ|
+| [`permissions`](https://github.com/ericcampos321/permissions-project) | Responsável pelo gerenciamento de grupos de usuários (permissões), permitindo a visualização, criação, edição, ativação/desativação e filtragem |
+| [`csv-api-fastapi`](https://github.com/ericcampos321/register_backend_csv) | API desenvolvida em Python + FastAPI que consome dados diretamente de arquivos CSV, com suporte a filtros dinâmicos, paginação e deploy. |
+| [`scraper-operadoras`](https://github.com/ericcampos321/leveling_test_v.250321) | Web scraper feito em Java que coleta dados públicos de operadoras de saúde da ANS e transforma em base de dados estruturada. |
+
+---
+
+### 🛠️ Tecnologias que mais utilizo
+
+- **Frontend:** React.js, TypeScript, TailwindCSS, PrimeVue
+- **Backend:** Node.js (Express.js), Python (FastAPI), Java (Spring Boot)
+- **Banco de Dados:** MongoDB, MySQL, Drizzle ORM, SQLAlchemy
+- **Extras:** JWT Auth, PDF Generator, Puppeteer, Electron, Webhooks, GitHub Actions
+
+---
+
+### 📌 Destaques
+
+- Arquitetura organizada com separação em `Controller`, `Service`, `Repository`, seguindo boas práticas.
+- Integração com APIs públicas e privadas (Focus NFe, ViaCEP, Beehiiv).
+- Implementações de filtros avançados, dashboards, geração de relatórios e módulos de permissões dinâmicas.
+- Testes técnicos completos com README documentado e automações.
+
+---
 
 
 <div>
