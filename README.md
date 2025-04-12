@@ -36,7 +36,7 @@ automação tributária no Simples Nacional.
   <tbody>
     <tr>
       <td><strong>Desenvolvimento</strong></td>
-      <td>Front-end · Back-end · Full Stack</td>
+      <td>Front-end · Back-end</td>
     </tr>
     <tr>
       <td><strong>Frameworks e Linguagens</strong></td>
