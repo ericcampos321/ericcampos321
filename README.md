@@ -23,7 +23,7 @@ automação tributária no Simples Nacional.
 ---
 
 
-### 🛠️ Tecnologias que mais utilizo
+### 🛠️ Conhecimento / Experiência
 
 
 <table>
