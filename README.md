@@ -53,7 +53,7 @@ automação tributária no Simples Nacional.
     <tr>
     <tr>
       <td><strong>Metodologias e Processos</strong></td>
-      <td>Scrum · Kanban · Metodologias Ágeis</td>
+      <td>Scrum · Kanban · Lean</td>
     </tr>
     <tr>
       <td><strong>Ferramentas de CI/CD</strong></td>
