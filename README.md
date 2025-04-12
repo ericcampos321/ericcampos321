@@ -9,6 +9,7 @@ automação tributária no Simples Nacional.
 
 ---
 
+
 ### 🚀 Projetos com maior impacto e utilidade prática
 
 | Projeto | Descrição |
@@ -21,7 +22,9 @@ automação tributária no Simples Nacional.
 
 ---
 
+
 ### 🛠️ Tecnologias que mais utilizo
+
 
 <table>
   <thead>
