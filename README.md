@@ -46,6 +46,11 @@ automação tributária no Simples Nacional.
       <td><strong>DBs</strong></td>
       <td>MongoDB · MySQL</td>
     </tr>
+     <tr>
+      <td><strong>Ferramentas de Testes</strong></td>
+      <td>Insomnia · Postman · NGROK</td>
+    </tr>
+    <tr>
     <tr>
       <td><strong>Metodologias e Processos</strong></td>
       <td>Scrum · Kanban · Metodologias Ágeis</td>
