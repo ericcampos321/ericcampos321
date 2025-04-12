@@ -37,7 +37,11 @@ automação tributária no Simples Nacional.
     </tr>
     <tr>
       <td><strong>Frameworks e Linguagens</strong></td>
-      <td>TypeScript · JavaScript · React.js · Next.Js · Redux Thunk · Material UI · API REST</td>
+      <td>TypeScript · JavaScript · React.js · Next.Js · Node.js · Express.js · Material UI · API REST</td>
+    </tr>
+        <tr>
+      <td><strong>DBs</strong></td>
+      <td>MongoDB · MySQL</td>
     </tr>
     <tr>
       <td><strong>Metodologias e Processos</strong></td>
