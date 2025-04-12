@@ -1,4 +1,4 @@
-## Olá! Seja bem-vindo ao meu perfil GitHub!
+## Eric Campos
 
 Desenvolvedor Full Stack com vivência em projetos escaláveis e integração de sistemas utilizando
 TypeScript, React.js, Node.js e MongoDB. Amplo conhecimento em APIs RESTful, autenticação com
