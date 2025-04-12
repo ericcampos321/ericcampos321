@@ -61,7 +61,7 @@ automação tributária no Simples Nacional.
     </tr>
     <tr>
       <td><strong>Soft Skills e Liderança</strong></td>
-      <td>Liderança técnica · Compartilhamento de conhecimento · Raciocínio Analítico · Escrita de documentação técnica</td>
+      <td>Liderança técnica · Treinamento ao usuario · Raciocínio Analítico · Escrita de documentação técnica</td>
     </tr>
   </tbody>
 </table>
