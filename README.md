@@ -9,7 +9,7 @@ Desenvolvedor Fullstack
 | Projeto | Descrição |
 |--------|-----------|
 | [`castracoes-api`](https://github.com/ericcampos321/castracao-backend) | API RESTful para gerenciamento de agendamentos e castrações em ONGs. Possui autenticação JWT, permissões por roles, MongoDB e arquitetura MVC. |
-| [`project-SEFAZ`](https://github.com/ericcampos321/SEFAZ-Project-NODEJS) | Sistema de comunicação com a SEFAZ|
+| [`project-SEFAZ`](https://github.com/ericcampos321/SEFAZ-Project-NODEJS) | Sistema de comunicação com a SEFAZ ( em andamento )|
 | [`permissions`](https://github.com/ericcampos321/permissions-project) | Responsável pelo gerenciamento de grupos de usuários (permissões), permitindo a visualização, criação, edição, ativação/desativação e filtragem |
 | [`csv-api-fastapi`](https://github.com/ericcampos321/register_backend_csv) | API desenvolvida em Python + FastAPI que consome dados diretamente de arquivos CSV, com suporte a filtros dinâmicos, paginação e deploy. |
 | [`scraper-operadoras`](https://github.com/ericcampos321/leveling_test_v.250321) | Web scraper feito em Java que coleta dados públicos de operadoras de saúde da ANS e transforma em base de dados estruturada. |
