@@ -37,7 +37,7 @@ automação tributária no Simples Nacional.
     </tr>
     <tr>
       <td><strong>Frameworks e Linguagens</strong></td>
-      <td>TypeScript · JavaScript · React.js · Next.Js · Node.js · Express.js · Material UI · API REST</td>
+      <td>TypeScript · JavaScript · React.js · Next.Js · Node.js · Express.js · Material UI · API REST · TailwindCSS</td>
     </tr>
         <tr>
       <td><strong>DBs</strong></td>
@@ -57,13 +57,6 @@ automação tributária no Simples Nacional.
     </tr>
   </tbody>
 </table>
-
-### 🛠️ Tecnologias que mais utilizo
-
-- **Frontend:** React.js, TypeScript, TailwindCSS, Material UI
-- **Backend:** Node.js (Express.js)
-- **Banco de Dados:** MongoDB, MySQL, Drizzle ORM, SQLAlchemy
-- **Extras:** JWT Auth, PDF Generator, Puppeteer, Electron, Webhooks, GitHub Actions
 
 ---
 
