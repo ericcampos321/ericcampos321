@@ -21,6 +21,8 @@ automação tributária no Simples Nacional.
 
 ---
 
+### 🛠️ Tecnologias que mais utilizo
+
 <table>
   <thead>
     <tr>
@@ -31,39 +33,23 @@ automação tributária no Simples Nacional.
   <tbody>
     <tr>
       <td><strong>Desenvolvimento</strong></td>
-      <td>Front-end · Back-end · Full Stack · Jogos</td>
+      <td>Front-end · Back-end · Full Stack</td>
     </tr>
     <tr>
       <td><strong>Frameworks e Linguagens</strong></td>
-      <td>TypeScript · JavaScript · React.js · Next.Js · Redux Thunk · Styled-components · React Native · SASS · API REST</td>
+      <td>TypeScript · JavaScript · React.js · Next.Js · Redux Thunk · Material UI · API REST</td>
     </tr>
     <tr>
       <td><strong>Metodologias e Processos</strong></td>
       <td>Scrum · Kanban · Metodologias Ágeis</td>
     </tr>
     <tr>
-      <td><strong>Testes e Qualidade</strong></td>
-      <td>Jest · React Testing Library · Sonarqube · ESLint · Testes unitários · Testes E2E · Desenvolvimento orientado a testes (TDD) · WCAG · Acessibilidade W3C · OWASP</td>
-    </tr>
-    <tr>
-      <td><strong>Ferramentas de DevOps / CI/CD</strong></td>
-      <td>Git · GitLab · CircleCI · Azure DevOps</td>
-    </tr>
-    <tr>
-      <td><strong>UX e Design</strong></td>
-      <td>Experiência do usuário (UX) </td>
-    </tr>
-    <tr>
-      <td><strong>Cloud e Observabilidade</strong></td>
-      <td>Amazon Web Services (AWS) · New Relic · Grafana · DataDog</td>
+      <td><strong>Ferramentas de CI/CD</strong></td>
+      <td>Git · GitLab</td>
     </tr>
     <tr>
       <td><strong>Soft Skills e Liderança</strong></td>
-      <td>Comunicação · Liderança técnica · Compartilhamento de conhecimento · Realização de palestras · Escrita de documentação técnica</td>
-    </tr>
-    <tr>
-      <td><strong>Outros</strong></td>
-      <td>Active Directory · CRM</td>
+      <td>Liderança técnica · Compartilhamento de conhecimento · Raciocínio Analítico · Escrita de documentação técnica</td>
     </tr>
   </tbody>
 </table>
