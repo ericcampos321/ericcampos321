@@ -18,6 +18,7 @@ automação tributária no Simples Nacional.
 | [`Projeto2`](https://github.com/ericcampos321/SEFAZ-Project-NODEJS) | Sistema de comunicação com a SEFAZ ( em andamento )|
 | [`Projeto3`](https://github.com/ericcampos321/permissions-project) | Responsável pelo gerenciamento de grupos de usuários (permissões) em Next.js e Material.UI, permitindo a visualização, criação, edição, ativação/desativação e filtragem |
 | [`Projeto4`](https://github.com/ericcampos321/register_backend_csv) | API desenvolvida em Python + FastAPI que consome dados diretamente de arquivos CSV, com suporte a filtros dinâmicos, paginação e deploy. |
+| [`Projeto4`](https://github.com/ericcampos321/register_operators) | Teste Técnico - API de Busca de Operadoras mais relevantes (FastAPI + Vue.js). |
 | [`Projeto5`](https://github.com/ericcampos321/leveling_test_v.250321) | Web scraper feito em Java que coleta dados públicos de operadoras de saúde da ANS e transforma em base de dados estruturada. |
 
 ---
